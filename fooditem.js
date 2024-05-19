@@ -6,7 +6,7 @@ const foodItem=[
         category : 'soup',
         rating: 4.3,
         price: 60,
-        img: 'album/fried/rice,chicken-fried.jpg',
+        img: 'rice,chicken-fried.jpg',
         quantity:1,
     },
     {
@@ -15,7 +15,7 @@ const foodItem=[
         category : 'soup',
         rating: 4.3,
         price:60,
-        img: 'album/soup/fish,soup.jpg',
+        img: 'fish,soup.jpg',
         quantity:1,
     },
     {
@@ -24,7 +24,7 @@ const foodItem=[
         category : 'soup',
         rating: 4.3,
         price:70,
-        img: 'album/soup/rice,soup1.jpg',
+        img: 'rice,soup1.jpg',
         quantity:1,
     },
     {
@@ -33,7 +33,7 @@ const foodItem=[
         category : 'soup',
         rating: 4.3,
         price:70,
-        img: 'album/soup/rice,soup2.jpg',
+        img: 'rice,soup2.jpg',
         quantity:1,
     },    
     //--------------------------------------fried-------------------------------------
@@ -43,7 +43,7 @@ const foodItem=[
         category : 'fried',
         rating: 4.3,
         price:80,
-        img: 'album/fried/rice,chicken-fried.jpg',
+        img: 'rice,chicken-fried.jpg',
         quantity:1,
     },    
     {
@@ -52,7 +52,7 @@ const foodItem=[
         category : 'fried',
         rating: 4.3,
         price:50,
-        img: 'album/fried/rice,egg.jpg',
+        img: 'rice,egg.jpg',
         quantity:1,
     },    
     {
@@ -61,7 +61,7 @@ const foodItem=[
         category : 'fried',
         rating: 4.3,
         price:60,
-        img: 'album/fried/rice,fish1.jpg',
+        img: 'rice,fish1.jpg',
         quantity:1,
     },    
     {
@@ -70,7 +70,7 @@ const foodItem=[
         category : 'fried',
         rating: 4.3,
         price:60,
-        img: 'album/fried/rice,fish2.jpg',
+        img: 'rice,fish2.jpg',
         quantity:1,
     },    
     {
@@ -79,7 +79,7 @@ const foodItem=[
         category : 'fried',
         rating: 4.3,
         price:70,
-        img: 'album/fried/rice,fish3.jpg',
+        img: 'rice,fish3.jpg',
         quantity:1,
     },    
     {
@@ -88,7 +88,7 @@ const foodItem=[
         category : 'fried',
         rating: 4.3,
         price:60,
-        img: 'album/fried/rice,fish4.jpg',
+        img: 'rice,fish4.jpg',
         quantity:1,
     },
     //--------------------------------------curry and snack-------------------------------------
@@ -98,7 +98,7 @@ const foodItem=[
         category : 'curry',
         rating: 4.3,
         price:70,
-        img: 'album/soup/curry.jpg',
+        img: 'curry.jpg',
         quantity:1,
     },
     {
@@ -107,7 +107,7 @@ const foodItem=[
         category : 'curry',
         rating: 4.3,
         price:50,
-        img: 'album/snack/snack1.png',
+        img: 'snack1.png',
         quantity:1,
     },
     {
@@ -116,7 +116,7 @@ const foodItem=[
         category : 'curry',
         rating: 4.3,
         price:50,
-        img: 'album/snack/snack2.png',
+        img: 'snack2.png',
         quantity:1,
     }
 ]
